@@ -1,5 +1,6 @@
 ---
 title: "共产党宣言"
+slug: "p2"
 date: 2025-07-01T13:00:00+08:00
 draft: false
 ---
